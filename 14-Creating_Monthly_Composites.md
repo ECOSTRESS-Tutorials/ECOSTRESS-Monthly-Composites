@@ -5,11 +5,9 @@
 
 # Table of Contents
 
-[What is a Composite Image?
-[1](#what-is-a-composite-image)](#what-is-a-composite-image)
+[What is a Composite Image?](#what-is-a-composite-image)
 
-[Creating Monthly Composites
-[1](#creating-monthly-composites)](#creating-monthly-composites)
+[Creating Monthly Composites](#creating-monthly-composites)
 
 # What is a Composite Image?
 
